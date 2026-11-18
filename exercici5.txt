@@ -1,0 +1,24 @@
+Nom i cognoms: Cristian Agrici
+
+Exercici 5. Reflexió final
+
+1. Diferència entre print() i return:
+print() mostra el text per pantalla, però no guarda el resultat.
+return envia el valor a qui ha cridat la funció perquè el pugui usar.
+
+2. Per què és millor dividir un programa en funcions?
+Fa el programa més ordenat, més fàcil de llegir i de corregir si hi ha errors.
+
+3. Què és un paràmetre?
+Una variable que escrivim entre parèntesis a la definició de la funció i que rep les dades.
+
+4. Què és una variable local?
+La que es crea dins d'una funció i només existeix allà dins.
+
+5. Quins avantatges té reutilitzar una funció?
+Evita repetir codi, estalvia temps i, si cal canviar alguna cosa, només es canvia en un lloc.
+
+Respostes de l'exercici 1:
+1. La funció té 2 paràmetres (peces i ma_obra).
+2. Retorna 75 (45 + 30).
+3. Si traiem el return, la funció no retorna res (retorna None) i el print mostraria "None".
